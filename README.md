@@ -1,5 +1,5 @@
 ## Hi 👋 , I’m AKSHYAVARSHINI-J
-- 🔭 Here's my [portfolio](https://akshyavarshini-07.github.io/Portfolio/)                                                 
+- 🔭 Here's my [portfolio](https://akshyavarshini.netlify.app/)                                                 
 - 🌱 I’m currently learning UI/UX design
 - 📫 How to reach me :
 -<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshyavarshini/)
